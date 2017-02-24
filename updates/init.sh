@@ -8,6 +8,5 @@ if [ -d "updates" ]; then
 fi
 
 sudo yum -y update
-sudo alternatives --set python /usr/bin/python2.7
 
 popd > /dev/null
