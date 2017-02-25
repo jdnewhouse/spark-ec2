@@ -1,0 +1,16 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+10.142.117.6    devdeploy
+10.142.116.5    openvpn
+
+10.142.117.140  esdemo1
+10.142.117.36   esdemo2
+10.142.117.98   esdemo3
+10.142.117.32   devspark
+10.142.117.125  devclient2
+
+10.142.117.161  hdpdemo
+
+116.66.156.141  ctsintbmsnty    # NAT to 10.242.196.69 TCP/1433
+116.66.156.142  ctsintbmvpcsrpt # NAT to 10.242.19.123 TCP/22 TCP/80 TCP/443
